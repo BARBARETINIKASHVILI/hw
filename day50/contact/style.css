@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Open+Sans&family=Poppins:wght@200;400&display=swap');
+
+body {
+    background-color: rgb(42, 42, 42);
+}
+
+div {
+    display: flex;
+    background-color: rgb(17, 17, 17);
+    color: white;
+    font-family: Poppins;
+}
+
+ol {
+    display: flex;
+    gap: 75px;
+    list-style: none;
+    text-decoration: underline;
+    margin-left: 50%;
+    margin-top: 20px;
+     
+}
+
+img {
+    border-radius: 60px;
+    width: 75px;
+    height: 70px;
+    top: 10px;
+
+}
+
+.main {
+    width: 25%;
+    height: 25%;
+    border-radius: 500px;
+    margin-top: 10%;
+    border: solid;
+    border-color: green;
+}
+
+h2 {
+    color: green;
+    font-family: Poppins;
+    margin-left: 30%;
+    margin-top: -10%;
+}
+
+p {
+    color: white;
+    margin-top: -3.5%;
+    margin-left: 18%;
+}
+
+a {
+    list-style: none;
+    color: green;
+}
+
+.main2 {
+    width: 25%;
+    height: 25%;
+    border-radius: 500px;
+    margin-top: 10%;
+    border: solid;
+    border-color: green;
+    margin-left: 70%; 
+}
+
+.main3 {
+    margin-left: 25%;
+}
+
+.main4 {
+    margin-left: 40%;
+}
+
+h6 {
+    margin-left: 65%;
+    font-size: 18px;
+    color: white;
+    margin-top: -16%;
+}
+
+h5 {
+    margin-left: 5%;
+    margin-top: -15%;
+    font-size: 18px;
+    color: white;
+    
+}
+
+.main5 {
+    width: 25%;
+    height: 25%;
+    border-radius: 500px;
+    margin-top: 10%;
+    border: solid;
+    border-color: green;
+}
+
+.main6 {
+    margin-left: 23%;
+}
+
+.main7 {
+    margin-left: 70% ;
+}
+
+.main8 {
+    width: 25%;
+    height: 25%;
+    border-radius: 500px;
+    border: solid;
+    border-color: green;
+    margin-left: 40%;
+    margin-top: 3%;
+}
+
+.main9 {
+    margin-left: 4% ;
+    margin-top: -20%;
+    font-size: 20px;
+}
+
+button {
+    border-radius: 14px;
+    background-color: green;
+    border-color: green;
+    color: white;
+    height: 35px;
+    width: 80px;
+    font-family: Poppins;
+    margin-left: 80%;
+    margin-top: -100px;
+    position: absolute;
+}

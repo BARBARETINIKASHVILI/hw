@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Lilita+One&display=swap');
+
+body { background-image: url(./pexels-photo-4646214.jpeg) ; 
+       background-repeat: no-repeat;
+       background-size: cover;
+        
+     }    
+
+
+h2 {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-family: Lilita One;
+    }
+
+
+div {
+     margin-top: 150px;
+     border-radius: 20px;
+     text-align: center;
+     font-family: Lilita One;
+     color: rgb(255, 255, 255);
+
+    }
+
+    
+input{  border: solid ;
+        width: 15%;
+        border-radius: 20px;
+        margin: auto;
+        width: 15%;
+        border: 3px solid #73AD21;
+        padding: 7px;
+        
+        }
+
+
+#button {text-align: center;
+       border:solid ;
+       width: 6% ;
+       border-radius:20px ;
+       color: rgb(4, 4, 62);
+       font-family: Lilita One;
+       margin: auto;
+       width: 7%;
+       border: 3px solid #73AD21;
+       padding: 5px;
+     }
+
+
+
+
+     

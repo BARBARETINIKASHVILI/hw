@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Bubblegum+Sans&family=Bungee&family=Farro:wght@700&family=Lexend+Giga:wght@500&family=Luckiest+Guy&family=Slackey&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Bubblegum+Sans&family=Bungee&family=Farro:wght@700&family=Lexend+Giga:wght@500&family=Luckiest+Guy&family=Playpen+Sans&family=Slackey&display=swap');
+
+
+
+
+body{background-color: rgb(31, 28, 28);}
+
+ 
+h1 { 
+    color: rgb(205, 7, 7);
+    font-family: Poppins;
+    font-weight: 900;
+    margin-left: 40px;
+   }
+
+h2 { 
+     margin-left: 1000px;
+     color: rgb(255, 255, 255);
+}
+
+p {  
+    text-align: justify;
+     color: rgb(255, 255, 255);
+     font-family: Playpen Sans ;
+     font-weight: 700;
+     list-style-type: none;
+     font-weight: 900;
+     margin-left: 40px;
+     margin-top: -px;
+  }
+
+a {   color: rgb(188, 26, 26);
+      text-decoration: none;
+      font-family:Bungee ;
+    }
+
+
+
+ol,li {
+       list-style-type: none;
+       color: rgb(205, 7, 7); 
+       font-family: Bungee;
+       display: flex;
+       margin: 4%;
+       text-align: right;
+      }
+
+
+div { 
+       list-style-type: none;
+       color: rgb(205, 7, 7);
+       
+    }
+
+.Home {
+        margin-top: 2px;
+        
+      }
+
+
+.ordered_list {
+  margin-left:70%;
+  margin-top: -94px;           
+}
+
+
+img { margin-left: 1050px;
+      border:solid ;
+      width: 20% ;
+      color: rgb(169, 27, 27);
+      border-radius:20px ;
+      }
+
+

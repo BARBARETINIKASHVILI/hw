@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Open+Sans&family=Poppins:wght@200;400&display=swap');
+
+body {
+    background-color: rgb(42, 42, 42);
+}
+
+div {
+    display: flex;
+    background-color: rgb(17, 17, 17);
+    color: white;
+    font-family: Poppins;
+}
+
+ol {
+    display: flex;
+    gap: 75px;
+    list-style: none;
+    margin-left: 50%;
+    margin-top: 20px;
+
+}
+
+img {
+    border-radius: 60px;
+    width: 75px;
+    height: 70px;
+    top: 10px;
+    
+
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    transition: 1.5s ease;
+}
+
+a:hover {
+    
+      text-decoration: underline;
+}
+
+video {
+    width: 30%;
+    margin-left: 55%;
+    margin-top: 10%;
+    border-radius: 15px;
+}
+
+h1 {
+    font-family: Poppins;
+    display: flex;
+    color: white;
+    margin-top: -10%;
+    margin-left: 10%;
+    font-size: 35px;
+}
+
+p {
+    color: green;
+    text-decoration: overline;
+}
+
+h4 {
+    display: flex;
+    margin-left: 25px;
+    border: solid;
+    
+}
+
