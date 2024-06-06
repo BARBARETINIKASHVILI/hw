@@ -42,24 +42,24 @@
 
 //setInterval(function(){
 //   const me = new Data()
-   console.log(me.data()),
+//    console.log(me.data()),
 
-1000;} )
+// 1000;} )
 
 
-let second = 30;
-let minut = 5;
+// let second = 30;
+// let minut = 5;
 
-const timer = setinterval(function(){
-    seconds -- ;
-    if (seconds == 0){
-        minutes --;
-        seconds = 60;
-        if (minutes == 0){
-            clearInterval(timer)
-        }
-    }
-})
+// const timer = setinterval(function(){
+//     seconds -- ;
+//     if (seconds == 0){
+//         minutes --;
+//         seconds = 60;
+//         if (minutes == 0){
+//             clearInterval(timer)
+//         }
+//     }
+// })
 
 
 
