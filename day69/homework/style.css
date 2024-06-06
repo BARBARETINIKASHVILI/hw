@@ -1,0 +1,30 @@
+
+body {
+    background-color: black;
+}
+
+#div {
+    background-color: rgba(0, 0, 255, 0.821);
+    width: 30%;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    color: rgba(116, 0, 0, 0.822);
+    
+}
+
+#text {
+    color: whitesmoke;
+    font-size: 40px;
+    
+}
+
+#btn {
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    background-color: black;
+}
